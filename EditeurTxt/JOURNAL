@@ -1,0 +1,43 @@
+c'est le Journal de l'equipe DIALLO Fatou
+DIALLO Fatou
+SYLLA Ahmed
+MEZIANE Wacim
+Les taches:
+Reunion du 09 -02 :
+Debut du projet: les 3 Premiers Points à réaliser:
+1- Buffer par Fatou
+2- Chargement et sauvegarde du fichier par Wacim
+3 - Deffilement (scrolling) par Ahmed
+
+Objectif de la semaine du 09 au 16 Février 2018:
+1-familiarisé avec Ncursuses
+2- creer le buffer strusture de données
+3- charger un fichier et afficher son contenu
+4-pourvoir exécuter un programme avec la bubliothèque Ncurses,
+	a- installer Ncurses                                 (OK)
+	b- commande de compilation avec Ncurses              (OK)
+	c- creation de fenetre                               (OK)
+	d- lire et afficher le contenue d'un fichier avec Ncurses (OK)
+	e- creer la strusture de données du buffer            (OK)
+
+
+Objectifs de la semaine du 16 au 23 fevrier:
+ 1- Diagramme d'architecture(uml)                             (OK)
+ 2-liaison entre buffer et scrolling (Ahmed)
+ 3-saisi clavier dans une fenetre et sauvegarde dans le buffer (Fatou)
+ 4- sauvegarde du buffer (MEZIANE)
+ 5- voir comment faire une selection                           (OK) 
+
+
+Objectifs de semaine du 5 mars
+ j'ai duscuté l'enseignant sur les taches:
+   Diagramme d'architecture pour tous                         (OK)
+   sauvegarde de Buffer Meziane obligatoire              
+    implementation de la selection (marqueur) Fatou 
+    metre à jour du scrolling
+
+Objectif de semaine du 9 mars
+liaison entre buffer et scrolling (Ahmed)
+saisi clavier dans une fenetre et sauvegarde dans le buffer (Ahmed)
+sauvegarde du buffer (MEZIANE)
+implementation de l'interface de la selection et correction de buffer (marqueur) (Fatou).
